@@ -1,0 +1,14 @@
+{
+  "name": "tecsup-2023-tarea-chacontasaico",
+  "version": "0.0.1",
+  "description": "a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Chacon",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
