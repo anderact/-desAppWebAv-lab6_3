@@ -1,4 +1,4 @@
-exports.age = function(year, month, day) {
+function age(year, month, day) {
     var moment = require('moment')
 
     var birthday = new Date(year, month, day) // person's birthday
@@ -11,3 +11,5 @@ exports.age = function(year, month, day) {
 
     return age
 }
+
+module.exports = { age }

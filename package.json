@@ -1,8 +1,15 @@
 {
   "name": "tecsup-2023-tarea-chacontasaico",
   "version": "0.0.1",
-  "description": "a",
+  "description": "just a test",
   "main": "index.js",
+  "directories": {
+    "lib": "source"
+  },
+  "files": [
+    "dist",
+    "source"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
